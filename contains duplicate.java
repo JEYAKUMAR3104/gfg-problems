@@ -11,5 +11,5 @@ class Solution {
        return false;
     }
 }
-    
+ /   
 //check this link:https://neetcode.io/problems/duplicate-integer/question?list=allNC
